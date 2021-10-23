@@ -23,11 +23,13 @@ body{
 body{
     display: grid;
     place-items: center;
+    background: #121214 url(/images/bodybg.svg) no-repeat center/cover;
+
 
 }
 
 main{
-    background: url(/images/bg.png);
+    background: url(/images/background.svg);
     width: 375px;
     height: 812px;
 
