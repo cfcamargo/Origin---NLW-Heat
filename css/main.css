@@ -27,7 +27,7 @@ body{
 }
 
 main{
-    background: url(images/bg.png);
+    background: url(/images/bg.png);
     width: 375px;
     height: 812px;
 
